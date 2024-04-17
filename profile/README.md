@@ -29,7 +29,7 @@ At Daly Analytics, we provide end-to-end analytics solutions that help businesse
 ### Rapid Value Creation with Prototyping
 - We excel in developing user-friendly prototypes that quickly demonstrate value to stakeholders to make actionable decisions
 
-## Services & Solutions
+## Services & Solutions 🧰
 
 ### Advanced Data Analysis
 - Data Cleaning & Processing
@@ -53,8 +53,8 @@ At Daly Analytics, we provide end-to-end analytics solutions that help businesse
 - CRAN Submission & Validation
 
 ### Workshops & Training
-Beginner Friendly Curriculum
-Custom In-house Training & Tutoring
+- Beginner Friendly Curriculum
+- Custom In-house Training & Tutoring
 
 
 

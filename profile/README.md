@@ -1,4 +1,3 @@
-# Welcome to [Daly Analytics](https://dalyanalytics.com/)! 🌆
 
 <img width="912" alt="Screenshot 2024-04-17 at 2 01 09 PM" src="https://github.com/dalyanalytics/.github/assets/6685750/c1d45ce2-6ecb-487a-b4dd-b3da4b45dafb">
 
@@ -16,7 +15,7 @@
 
 ## Who we are 👋
 
-At Daly Analytics, we provide end-to-end analytics solutions that help businesses and individuals extract valuable insights from their data, leading to more confident decision making.
+At [Daly Analytics](https://dalyanalytics.com/), we provide end-to-end analytics solutions that help businesses and individuals extract valuable insights from their data, leading to more confident decision making.
 
 ## Why choose us 🧠 + 💙
 

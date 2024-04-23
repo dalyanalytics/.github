@@ -63,10 +63,7 @@ At [Daly Analytics](https://dalyanalytics.com/), we provide end-to-end analytics
 
 ## Let's work together! 
 
-Book a complimentary consultation call with me ➡️ 
-
-<iframe src="https://cal.com/jasminedaly" width="1000" height="750" frameborder="0" allowfullscreen></iframe>
-
+Book a complimentary consultation call with me ➡️ [https://cal.com/jasminedaly]() 
 
 
 

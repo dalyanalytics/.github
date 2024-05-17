@@ -15,7 +15,7 @@
 
 ## Who we are 👋
 
-At [Daly Analytics](https://dalyanalytics.com/), we provide end-to-end analytics solutions that help businesses and individuals extract valuable insights from their data, leading to more confident decision making.
+At [Daly Analytics](https://dalyanalytics.com/), we provide end-to-end analytics solutions that help businesses and individuals extract valuable insights from their data, leading to more confident decision making. Daly Analytics was founded in 2023 by Jasmine Daly, an experienced and versitile senior data scienist with a passion for the R Programming language.
 
 ## Why choose us 🧠 + 💙
 

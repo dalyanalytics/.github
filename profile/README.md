@@ -1,6 +1,5 @@
 
-<img width="912" alt="Screenshot 2024-04-17 at 2 01 09 PM" src="https://github.com/dalyanalytics/.github/assets/6685750/c1d45ce2-6ecb-487a-b4dd-b3da4b45dafb">
-
+![LinkedIn company page banner v2](https://github.com/user-attachments/assets/e84679d1-2c7d-4dae-8c4f-b8dff19e1c32)
 
 <!--
 
@@ -34,15 +33,15 @@ At [Daly Analytics](https://dalyanalytics.com/), we provide end-to-end analytics
 
 ## Services & Solutions 🧰
 
-### 📊 Advanced Data Analysis
-- Data Cleaning & Processing
-- Exploratory Data Analysis
-- Interactive Data Visualizations
-
 ### 🍎 Custom Shiny Web Apps
 - UI/UX Design Considerations
 - User-Friendly Widgets & Layouts
 - Local & Cloud Deployment
+
+### 📊 Advanced Data Analysis
+- Data Cleaning & Processing
+- Exploratory Data Analysis
+- Interactive Data Visualizations
 
 ### 🔮 Predictive Analytics & ML
 - Regression, Clustering, Forecasts

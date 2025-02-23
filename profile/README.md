@@ -1,68 +1,53 @@
+![LinkedIn company page banner v3 - mission-driven](https://github.com/user-attachments/assets/1d3bb976-b69f-428c-b153-1f69d591e005)
 
-![LinkedIn company page banner v2](https://github.com/user-attachments/assets/e84679d1-2c7d-4dae-8c4f-b8dff19e1c32)
+<div align="center">
 
-<!--
+# 🌅 **Daly Analytics**  
+**Empowering mission-driven organizations with user-friendly, robust, and enduring data science solutions.**  
 
-**Here are some ideas to get you started:**
+💡 **Founded by [Jasmine Daly](https://dalyanalytics.com/)** | Data Scientist | R & Shiny Expert | Open Source Advocate  
+📅 **Est. 2023**  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![Schedule a Call](https://img.shields.io/badge/Schedule%20Here-Book%20Now-%23FC642D?style=for-the-badge&logo=google-calendar&logoColor=white)](https://cal.com/jasminedaly)  
 
-## Who we are 👋
 
-At [Daly Analytics](https://dalyanalytics.com/), we provide end-to-end analytics solutions that help businesses and individuals extract valuable insights from their data, leading to more confident decision making. Daly Analytics was founded in 2023 by Jasmine Daly, an experienced and versitile senior data scienist with a passion for the R Programming language.
+---
 
-## Why choose us 🧠 + 💙
+### 🔥 **Why Choose Us?**
 
-### ✨ Expert R & Shiny Developer
-- We have built & maintained open source R software since 2016 that have been downloaded over 89,000 times
+#### ✨ **Expert R & Shiny Development**
+✅ Built & maintained **open-source R software** with **89,000+ downloads**  
+✅ Strong expertise in **Shiny apps, R packages, and data science workflows**  
+
+<div align="center">
   
-📦 [`shinyLP`](https://github.com/jasdumas/shinyLP)  [![](http://cranlogs.r-pkg.org/badges/grand-total/shinyLP)](https://cran.r-project.org/package=shinyLP) 
+[![CRAN shinyLP](https://img.shields.io/badge/CRAN-shinyLP-blue?style=for-the-badge&logo=r)](https://cran.r-project.org/package=shinyLP)  
+[![CRAN ttbbeer](https://img.shields.io/badge/CRAN-ttbbeer-blue?style=for-the-badge&logo=r)](https://cran.r-project.org/package=ttbbeer)  
 
-📦 [`ttbbeer`](https://github.com/jasdumas/ttbbeer)  [![](http://cranlogs.r-pkg.org/badges/grand-total/ttbbeer)](https://cran.r-project.org/package=ttbbeer)
+</div>
 
-###  🧲 Extensive Industry Knowledge
-- We have deep domain knowledge in numerous industries such as Life Science/Biotech, Insurance, FinTech, and Internet Infrastructure
+#### 🧲 **Extensive Industry Knowledge**
+✅ Deep expertise in **Life Science, Biotech, Insurance, FinTech, and Internet Infrastructure**  
 
-### 🏎️ Rapid Value Creation with Prototyping 
-- We excel in developing user-friendly prototypes that quickly demonstrate value to stakeholders to make actionable decisions
+#### 🏎 **Rapid Prototyping & Agile Development**
+✅ Create **fast, functional prototypes** that **demonstrate value quickly**  
 
-## Services & Solutions 🧰
+---
 
-### 🍎 Custom Shiny Web Apps
-- UI/UX Design Considerations
-- User-Friendly Widgets & Layouts
-- Local & Cloud Deployment
+## 🛠 **Our Services & Solutions**
 
-### 📊 Advanced Data Analysis
-- Data Cleaning & Processing
-- Exploratory Data Analysis
-- Interactive Data Visualizations
+| **Service**                      | **What We Offer** |
+|----------------------------------|------------------|
+| 🍎 **Custom Shiny Web Apps**      | Intuitive UI/UX, dynamic widgets, local & cloud deployment |
+| 📊 **Advanced Data Analysis**     | Data cleaning, processing, interactive visualizations |
+| 🔮 **Predictive Analytics & ML**  | Regression, clustering, forecasting, statistical modeling |
+| 📦 **R Package Development**      | Custom R functions, unit testing, CRAN submission |
+| 📘 **Workshops & Training**       | Beginner-friendly & expert-level courses, in-house training |
 
-### 🔮 Predictive Analytics & ML
-- Regression, Clustering, Forecasts
-- GLM, GBM, Decision Trees
-- Statistical Significance Testing
-- Custom Heuristic Development
+---
 
-### 📦 R Package Development
-- Bespoke R functions
-- Unit Testing & Documentation
-- CRAN Submission & Validation
+## 💡 **Let's Work Together!**  
 
-### 📘 Workshops & Training
-- Beginner Friendly Curriculum
-- Custom In-house Training & Tutoring
+📧 [**Get in Touch**](https://dalyanalytics.com/contact)  
 
-
-
-## Let's work together! 
-
-Book a complimentary consultation call with me ➡️ [https://cal.com/jasminedaly]() 
-
-
-
+</div>

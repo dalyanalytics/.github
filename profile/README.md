@@ -34,15 +34,16 @@
 
 ---
 
-## 🛠 **Our Services & Solutions**
+## 🛠 **What We Love Doing**
 
-| **Service**                      | **What We Offer** |
-|----------------------------------|------------------|
-| 🍎 **Custom Shiny Web Apps**      | Intuitive UI/UX, dynamic widgets, local & cloud deployment |
-| 📊 **Advanced Data Analysis**     | Data cleaning, processing, interactive visualizations |
-| 🔮 **Predictive Analytics & ML**  | Regression, clustering, forecasting, statistical modeling |
-| 📦 **R Package Development**      | Custom R functions, unit testing, CRAN submission |
-| 📘 **Workshops & Training**       | Beginner-friendly & expert-level courses, in-house training |
+| **Service**                                      | **Description** |
+|--------------------------------------------------|-----------------|
+| 📊 **Custom Interactive Dashboards**             | Intuitive, dynamic visualizations that bring your data to life with user-friendly interfaces |
+| 🔄 **Data Automation & Integration**             | Streamline your workflows by automating data pipelines and integrating multiple data sources |
+| 🔮 **Forecasting & Predictive Insights**         | Leverage statistical modeling and machine learning to forecast trends and inform strategic decisions |
+| 💰 **Financial Intelligence & Grant Reporting**  | Transform financial data into actionable insights and create comprehensive grant reports |
+| 🎓 **Training & Capacity Building**              | Empower your team with hands-on training in data analysis, visualization, and best practices |
+| 📈 **Board Reporting & Impact Assessment**       | Develop clear, compelling reports that demonstrate organizational impact and inform board decisions |
 
 ---
 

@@ -6,7 +6,7 @@ We partner with mission-driven organizations to turn data into decisions that ad
 
 Stop drowning in spreadsheets. Get clear, visual insights your entire team can understand and use.
 
-✓ See your fundraising and program data in real-time
+✓ See your up-to-date fundraising and program data
 ✓ Share interactive reports with board members and funders
 ✓ Access your insights from any device
 ✓ Connect your existing donor, program, and financial systems

@@ -1,54 +1,60 @@
-![LinkedIn company page banner v3 - mission-driven](https://github.com/user-attachments/assets/1d3bb976-b69f-428c-b153-1f69d591e005)
+![Daly Analytics Banner](https://github.com/user-attachments/assets/1d3bb976-b69f-428c-b153-1f69d591e005)
 
 <div align="center">
 
-# 🌅 **Daly Analytics**  
-**Empowering mission-driven organizations with user-friendly, robust, and enduring data science solutions.**  
+# Daly Analytics
 
-💡 **Founded by [Jasmine Daly](https://dalyanalytics.com/)** | Data Scientist | R & Shiny Expert | Open Source Advocate  
-📅 **Est. 2023**  
+**Data science & AI consulting for nonprofits and mission-driven organizations**
 
-[![Schedule a Call](https://img.shields.io/badge/Schedule%20Here-Book%20Now-%23FC642D?style=for-the-badge&logo=google-calendar&logoColor=white)](https://cal.com/jasminedaly)  
+Founded by [Jasmine Daly](https://dalyanalytics.com/) — Data Scientist, R/Shiny Developer, Open Source Contributor
 
-
----
-
-### 🔥 **Why Choose Us?**
-
-#### ✨ **Expert R & Shiny Development**
-✅ Built & maintained **open-source R software** with **89,000+ downloads**  
-✅ Strong expertise in **Shiny apps, R packages, and data science workflows**  
-
-<div align="center">
-  
-[![CRAN shinyLP](https://img.shields.io/badge/CRAN-shinyLP-blue?style=for-the-badge&logo=r)](https://cran.r-project.org/package=shinyLP)  
-[![CRAN ttbbeer](https://img.shields.io/badge/CRAN-ttbbeer-blue?style=for-the-badge&logo=r)](https://cran.r-project.org/package=ttbbeer)  
+[![Schedule a 15 Minute Call](https://img.shields.io/badge/Schedule%20a%2015%20Minute%20Call-Book%20Now-%23d68a93?style=for-the-badge&logo=google-calendar&logoColor=white)](https://cal.com/jasminedaly/intro)
 
 </div>
 
-#### 🧲 **Extensive Industry Knowledge**
-✅ Deep expertise in **Life Science, Biotech, Insurance, FinTech, and Internet Infrastructure**  
+---
 
-#### 🏎 **Rapid Prototyping & Agile Development**
-✅ Create **fast, functional prototypes** that **demonstrate value quickly**  
+## 👋 About
+
+Daly Analytics brings thoughtful & practical data science & AI capabilities to organizations doing meaningful work. We specialize in building interactive dashboards, predictive analytics tools, and automated reporting systems that help nonprofits measure impact and make better decisions.
+
+**Our clients include:** conservation organizations, universities, economic development agencies, and community-focused nonprofits.
 
 ---
 
-## 🛠 **What We Love Doing**
+## 🛠️ What We Do
 
-| **Service**                                      | **Description** |
-|--------------------------------------------------|-----------------|
-| 📊 **Custom Interactive Dashboards**             | Intuitive, dynamic visualizations that bring your data to life with user-friendly interfaces |
-| 🔄 **Data Automation & Integration**             | Streamline your workflows by automating data pipelines and integrating multiple data sources |
-| 🔮 **Forecasting & Predictive Insights**         | Leverage statistical modeling and machine learning to forecast trends and inform strategic decisions |
-| 💰 **Financial Intelligence & Grant Reporting**  | Transform financial data into actionable insights and create comprehensive grant reports |
-| 🎓 **Training & Capacity Building**              | Empower your team with hands-on training in data analysis, visualization, and best practices |
-| 📈 **Board Reporting & Impact Assessment**       | Develop clear, compelling reports that demonstrate organizational impact and inform board decisions |
+📊 **Interactive Dashboards & Applications** — Custom R/Shiny applications that transform complex data into clear, actionable insights your team can actually use.
+
+🔮 **Predictive Analytics & Forecasting** — Statistical modeling to help you anticipate trends, optimize resource allocation, and plan strategically.
+
+⚡ **Data Automation & Integration** — Streamlined pipelines that connect your data sources and eliminate manual reporting headaches.
+
+🎓 **AI Training & Capacity Building** — Hands-on workshops in data analysis, visualization, AI tools, and modern analytics practices for mission-driven teams.
+
+📈 **Grant Reporting & Impact Measurement** — Clear, compelling reports that demonstrate your organization's outcomes to funders and boards.
 
 ---
 
-## 💡 **Let's Work Together!**  
+## 📦 Open Source Software
 
-📧 [**Get in Touch**](https://dalyanalytics.com/contact)  
+Maintainer of four Comprehensive R Archive Network (CRAN) packages with **100,000+ total downloads**:
+
+- shinyLP [![shinyLP downloads](https://cranlogs.r-pkg.org/badges/grand-total/shinyLP?color=1f77b4)](https://cran.r-project.org/package=shinyLP)
+- ttbbeer [![ttbbeer downloads](https://cranlogs.r-pkg.org/badges/grand-total/ttbbeer?color=ff7f0e)](https://cran.r-project.org/package=ttbbeer)
+- avilistr [![avilistr downloads](https://cranlogs.r-pkg.org/badges/grand-total/avilistr?color=9467bd)](https://cran.r-project.org/package=avilistr)
+- shinyfa [![shinyfa downloads](https://cranlogs.r-pkg.org/badges/grand-total/shinyfa?color=2ca02c)](https://cran.r-project.org/package=shinyfa)
+
+Active contributor to the R community through R-Ladies, R Contributors, and R Consortium initiatives including the CRAN Cookbook project.
+
+---
+
+## 💬 Let's Talk
+
+Whether you need a dashboard, want to automate your reporting, or are exploring how AI can help your nonprofit work more effectively — I'd love to hear from you.
+
+<div align="center">
+
+📧 [Get in Touch](https://dalyanalytics.com/contact) · 🌐 [dalyanalytics.com](https://dalyanalytics.com/)
 
 </div>

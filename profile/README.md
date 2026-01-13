@@ -1,4 +1,5 @@
-![Daly Analytics Banner](https://github.com/user-attachments/assets/1d3bb976-b69f-428c-b153-1f69d591e005)
+
+<img width="1584" height="396" alt="2026 banner (4)" src="https://github.com/user-attachments/assets/12fb62f3-bb5d-4c75-b185-b1157e4ab7f0" />
 
 <div align="center">
 
@@ -49,7 +50,7 @@ Active contributor to the R community through R-Ladies, R Contributors, and R Co
 
 ---
 
-## 💬 Let's Talk
+## 💬 Let's Chat!
 
 Whether you need a dashboard, want to automate your reporting, or are exploring how AI can help your nonprofit work more effectively — I'd love to hear from you.
 

@@ -1,13 +1,12 @@
-
 <img width="1584" height="396" alt="2026 banner (4)" src="https://github.com/user-attachments/assets/12fb62f3-bb5d-4c75-b185-b1157e4ab7f0" />
 
 <div align="center">
 
 # Daly Analytics
 
-**Data science & AI consulting for nonprofits and mission-driven organizations**
+**Embedded Data & AI Partner for mission-driven organizations**
 
-Founded by [Jasmine Daly](https://dalyanalytics.com/) — Data Scientist, R/Shiny Developer, Open Source Contributor
+Founded by [Jasmine Daly](https://dalyanalytics.com/) — Fractional AI Leader, R/Shiny Developer, Open Source Contributor
 
 [![Schedule a 15 Minute Call](https://img.shields.io/badge/Schedule%20a%2015%20Minute%20Call-Book%20Now-%23d68a93?style=for-the-badge&logo=google-calendar&logoColor=white)](https://cal.com/jasminedaly/intro)
 
@@ -17,23 +16,25 @@ Founded by [Jasmine Daly](https://dalyanalytics.com/) — Data Scientist, R/Shin
 
 ## 👋 About
 
-Daly Analytics brings thoughtful & practical data science & AI capabilities to organizations doing meaningful work. We specialize in building interactive dashboards, predictive analytics tools, and automated reporting systems that help nonprofits measure impact and make better decisions.
+Daly Analytics is a human-centric, fractional tech strategy & implementation firm serving nonprofits, universities, and mission-driven organizations across New England. I provide embedded Data & AI leadership, working alongside leadership and staff to develop AI policy, build internal capability through training, and deliver custom data-driven AI tools and workflows your team trusts.
 
-**Our clients include:** conservation organizations, universities, economic development agencies, and community-focused nonprofits.
+We bring over a decade of expertise in data science, analytics, and engineering — with a little joy baked in.
+
+**Our clients include:** national research organizations, conservation groups, universities, economic development agencies, and community-focused nonprofits.
 
 ---
 
 ## 🛠️ What We Do
 
-📊 **Interactive Dashboards & Applications** — Custom R/Shiny applications that transform complex data into clear, actionable insights your team can actually use.
+🧭 **Fractional Leadership** — Embedded AI enablement engagements that give your organization strategic AI leadership without the full-time hire. Policy development, governance, and the steady hand of a senior hands-on partner.
 
-🔮 **Predictive Analytics & Forecasting** — Statistical modeling to help you anticipate trends, optimize resource allocation, and plan strategically.
+🗺️ **Tech Strategy** — Platform assessments, roadmaps, and vendor evaluations that help you cut through noise and invest in tools that actually fit your mission.
 
-⚡ **Data Automation & Integration** — Streamlined pipelines that connect your data sources and eliminate manual reporting headaches.
+⚙️ **Custom Implementation** — Production-grade builds, not prototypes. R/Shiny applications, automated reporting pipelines, and AI tools designed to scale with your organization.
 
-🎓 **AI Training & Capacity Building** — Hands-on workshops in data analysis, visualization, AI tools, and modern analytics practices for mission-driven teams.
+📊 **Analytics & Insights** — Interactive dashboards and predictive analytics that transform messy data into decisions your team can act on.
 
-📈 **Grant Reporting & Impact Measurement** — Clear, compelling reports that demonstrate your organization's outcomes to funders and boards.
+🎓 **AI Training & Capacity Building** — Hands-on workshops including our values-driven framework for nonprofit AI policy, prompt engineering, and modern analytics practices.
 
 ---
 
@@ -46,13 +47,14 @@ Maintainer of four Comprehensive R Archive Network (CRAN) packages with **100,00
 - avilistr [![avilistr downloads](https://cranlogs.r-pkg.org/badges/grand-total/avilistr?color=9467bd)](https://cran.r-project.org/package=avilistr)
 - shinyfa [![shinyfa downloads](https://cranlogs.r-pkg.org/badges/grand-total/shinyfa?color=2ca02c)](https://cran.r-project.org/package=shinyfa)
 
-Active contributor to the R community through R-Ladies, R Contributors, and R Consortium initiatives including the CRAN Cookbook project.
+Shiny developer since 2014. Active contributor to the R community through R-Ladies, R Contributors, and R Consortium initiatives including the CRAN Cookbook project.
 
 ---
 
+
 ## 💬 Let's Chat!
 
-Whether you need a dashboard, want to automate your reporting, or are exploring how AI can help your nonprofit work more effectively — I'd love to hear from you.
+Whether you're thinking through an AI policy, ready to embed strategic leadership, or need a dashboard your team will actually use, I'd love to hear from you.
 
 <div align="center">
 
